@@ -20,8 +20,16 @@ v)Package Diagram
 
 vi)Sequence Diagram
 
-# DIAGRAMS:
-(upload all 6 diagrams)
+# DIAGRAMS: 
+
+## USECASE DIAGRAM
+
+![image](https://github.com/user-attachments/assets/f6ce683f-f00d-4f1f-97eb-3cec428ed669)
+
+## CLASS DIAGRAM
+
+![image](https://github.com/user-attachments/assets/3f7b17ab-da29-4a39-be6b-57e4cb01af6b)
+
 
 # RESULT:
 
